@@ -1,0 +1,32 @@
+.search {
+    width: 75px;
+    height: 25px;
+    border-radius:5ch;
+    border-color: green;
+    color: green;
+    margin-top: 20px;
+    
+}
+
+.plus {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: lightgreen;
+    border: none;
+    color: white;
+    margin-top: 10px;
+}
+
+.account {
+    width: 150px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 0%;
+    background-color: blue;
+    box-shadow: 5px 5px 5px black;
+}
+
+* {
+    margin-left: 20px;
+}
